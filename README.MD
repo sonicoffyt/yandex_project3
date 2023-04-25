@@ -1,3 +1,0 @@
-ChatGptBOT
-
-Author: Vladislav Khromin
